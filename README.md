@@ -29,7 +29,6 @@ python3 todo_list.py
 
 ## Example Usage
 
----------------------------
 MENU
 ---------------------------
 1. Add item
