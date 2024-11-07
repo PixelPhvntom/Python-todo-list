@@ -2,7 +2,7 @@
 
 This simple command-line interface (CLI) to-do list application was created in Python. This app allows users to add items, mark them as done, view the list, and exit the program.
 
-
+--
 
 ## Features
 
@@ -11,7 +11,7 @@ This simple command-line interface (CLI) to-do list application was created in P
 - View all items: Display all current tasks in the list.
 - Exit the application: End session.
 
-
+--
 
 ## Installation
 
@@ -25,7 +25,7 @@ This simple command-line interface (CLI) to-do list application was created in P
 
 python3 todo_list.py
 
-
+--
 
 ## Example Usage
 
@@ -95,8 +95,8 @@ MENU
 Enter your choice: 4
 All done, goodbye!
 
+--
 
-
-##License
+## License
 
 This project is open-source.
